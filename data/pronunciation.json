@@ -1,0 +1,522 @@
+{
+  "language": "en",
+  "entries": [
+    {
+      "word": "live",
+      "reason": "homograph",
+      "respell": [
+        "liv",
+        "lyve"
+      ]
+    },
+    {
+      "word": "lives",
+      "reason": "homograph",
+      "respell": [
+        "livz",
+        "lyves"
+      ]
+    },
+    {
+      "word": "read",
+      "reason": "homograph",
+      "respell": [
+        "reed",
+        "red"
+      ]
+    },
+    {
+      "word": "lead",
+      "reason": "homograph",
+      "respell": [
+        "leed",
+        "led"
+      ]
+    },
+    {
+      "word": "wind",
+      "reason": "homograph",
+      "respell": [
+        "wynd",
+        "wined"
+      ]
+    },
+    {
+      "word": "tear",
+      "reason": "homograph",
+      "respell": [
+        "teer",
+        "tair"
+      ]
+    },
+    {
+      "word": "tears",
+      "reason": "homograph",
+      "respell": [
+        "teers",
+        "tairs"
+      ]
+    },
+    {
+      "word": "bass",
+      "reason": "homograph",
+      "respell": [
+        "bayss",
+        "bass"
+      ]
+    },
+    {
+      "word": "wound",
+      "reason": "homograph",
+      "respell": [
+        "woond",
+        "wownd"
+      ]
+    },
+    {
+      "word": "bow",
+      "reason": "homograph",
+      "respell": [
+        "boh",
+        "bau"
+      ]
+    },
+    {
+      "word": "close",
+      "reason": "homograph",
+      "respell": [
+        "clohss",
+        "clohz"
+      ]
+    },
+    {
+      "word": "minute",
+      "reason": "homograph",
+      "respell": [
+        "minnit",
+        "my-noot"
+      ]
+    },
+    {
+      "word": "record",
+      "reason": "homograph",
+      "respell": [
+        "reck-ord",
+        "ri-cord"
+      ]
+    },
+    {
+      "word": "present",
+      "reason": "homograph",
+      "respell": [
+        "prez-ent",
+        "pri-zent"
+      ]
+    },
+    {
+      "word": "object",
+      "reason": "homograph",
+      "respell": [
+        "ob-ject",
+        "ub-ject"
+      ]
+    },
+    {
+      "word": "desert",
+      "reason": "homograph",
+      "respell": [
+        "dez-ert",
+        "di-zert"
+      ]
+    },
+    {
+      "word": "content",
+      "reason": "homograph",
+      "respell": [
+        "con-tent",
+        "cun-tent"
+      ]
+    },
+    {
+      "word": "refuse",
+      "reason": "homograph",
+      "respell": [
+        "ri-fyooz",
+        "ref-yoos"
+      ]
+    },
+    {
+      "word": "use",
+      "reason": "homograph",
+      "respell": [
+        "yooz",
+        "yoos"
+      ]
+    },
+    {
+      "word": "excuse",
+      "reason": "homograph",
+      "respell": [
+        "ex-kyooz",
+        "ex-kyoos"
+      ]
+    },
+    {
+      "word": "house",
+      "reason": "homograph",
+      "respell": [
+        "howss",
+        "howz"
+      ]
+    },
+    {
+      "word": "polish",
+      "reason": "homograph",
+      "respell": [
+        "pol-ish",
+        "poh-lish"
+      ]
+    },
+    {
+      "word": "sow",
+      "reason": "homograph",
+      "respell": [
+        "soh",
+        "sau"
+      ]
+    },
+    {
+      "word": "row",
+      "reason": "homograph",
+      "respell": [
+        "roh",
+        "rau"
+      ]
+    },
+    {
+      "word": "dove",
+      "reason": "homograph",
+      "respell": [
+        "duv",
+        "dohv"
+      ]
+    },
+    {
+      "word": "does",
+      "reason": "homograph",
+      "respell": [
+        "duz",
+        "dohz"
+      ]
+    },
+    {
+      "word": "resume",
+      "reason": "homograph",
+      "respell": [
+        "ri-zoom",
+        "rez-oo-may"
+      ]
+    },
+    {
+      "word": "produce",
+      "reason": "homograph",
+      "respell": [
+        "pro-dyooss",
+        "prod-yooss"
+      ]
+    },
+    {
+      "word": "project",
+      "reason": "homograph",
+      "respell": [
+        "proj-ect",
+        "pro-ject"
+      ]
+    },
+    {
+      "word": "subject",
+      "reason": "homograph",
+      "respell": [
+        "sub-ject",
+        "sub-jekt"
+      ]
+    },
+    {
+      "word": "permit",
+      "reason": "homograph",
+      "respell": [
+        "per-mit",
+        "pur-mit"
+      ]
+    },
+    {
+      "word": "contract",
+      "reason": "homograph",
+      "respell": [
+        "con-tract",
+        "cun-tract"
+      ]
+    },
+    {
+      "word": "console",
+      "reason": "homograph",
+      "respell": [
+        "con-sole",
+        "cun-sole"
+      ]
+    },
+    {
+      "word": "separate",
+      "reason": "homograph",
+      "respell": [
+        "sep-ret",
+        "sep-a-rate"
+      ]
+    },
+    {
+      "word": "alternate",
+      "reason": "homograph",
+      "respell": [
+        "all-ter-net",
+        "all-ter-nate"
+      ]
+    },
+    {
+      "word": "moderate",
+      "reason": "homograph",
+      "respell": [
+        "mod-er-et",
+        "mod-er-ate"
+      ]
+    },
+    {
+      "word": "estimate",
+      "reason": "homograph",
+      "respell": [
+        "es-ti-met",
+        "es-ti-mate"
+      ]
+    },
+    {
+      "word": "graduate",
+      "reason": "homograph",
+      "respell": [
+        "grad-yoo-et",
+        "grad-yoo-ate"
+      ]
+    },
+    {
+      "word": "invalid",
+      "reason": "homograph",
+      "respell": [
+        "in-val-id",
+        "in-va-lid"
+      ]
+    },
+    {
+      "word": "entrance",
+      "reason": "homograph",
+      "respell": [
+        "en-trance",
+        "en-trahnss"
+      ]
+    },
+    {
+      "word": "axes",
+      "reason": "homograph",
+      "respell": [
+        "ax-iz",
+        "ax-eez"
+      ]
+    },
+    {
+      "word": "colonel",
+      "reason": "silent_letters",
+      "respell": [
+        "kernel"
+      ]
+    },
+    {
+      "word": "wednesday",
+      "reason": "silent_letters",
+      "respell": [
+        "wenz-day"
+      ]
+    },
+    {
+      "word": "salmon",
+      "reason": "silent_letters",
+      "respell": [
+        "sam-un"
+      ]
+    },
+    {
+      "word": "though",
+      "reason": "silent_letters",
+      "respell": [
+        "thoh"
+      ]
+    },
+    {
+      "word": "through",
+      "reason": "silent_letters",
+      "respell": [
+        "thru"
+      ]
+    },
+    {
+      "word": "thorough",
+      "reason": "silent_letters",
+      "respell": [
+        "thur-oh"
+      ]
+    },
+    {
+      "word": "tough",
+      "reason": "silent_letters",
+      "respell": [
+        "tuff"
+      ]
+    },
+    {
+      "word": "cough",
+      "reason": "silent_letters",
+      "respell": [
+        "coff"
+      ]
+    },
+    {
+      "word": "bough",
+      "reason": "silent_letters",
+      "respell": [
+        "bau"
+      ]
+    },
+    {
+      "word": "choir",
+      "reason": "silent_letters",
+      "respell": [
+        "kwire"
+      ]
+    },
+    {
+      "word": "yacht",
+      "reason": "silent_letters",
+      "respell": [
+        "yot"
+      ]
+    },
+    {
+      "word": "quay",
+      "reason": "silent_letters",
+      "respell": [
+        "kee"
+      ]
+    },
+    {
+      "word": "subtle",
+      "reason": "silent_letters",
+      "respell": [
+        "suttle"
+      ]
+    },
+    {
+      "word": "debris",
+      "reason": "silent_letters",
+      "respell": [
+        "de-bree"
+      ]
+    },
+    {
+      "word": "chaos",
+      "reason": "silent_letters",
+      "respell": [
+        "kay-oss"
+      ]
+    },
+    {
+      "word": "epitome",
+      "reason": "silent_letters",
+      "respell": [
+        "e-pit-o-mee"
+      ]
+    },
+    {
+      "word": "hyperbole",
+      "reason": "silent_letters",
+      "respell": [
+        "hy-per-bo-lee"
+      ]
+    },
+    {
+      "word": "segue",
+      "reason": "loan_word",
+      "respell": [
+        "seg-way"
+      ]
+    },
+    {
+      "word": "cache",
+      "reason": "loan_word",
+      "respell": [
+        "cash"
+      ]
+    },
+    {
+      "word": "niche",
+      "reason": "loan_word",
+      "respell": [
+        "neesh"
+      ]
+    },
+    {
+      "word": "genre",
+      "reason": "loan_word",
+      "respell": [
+        "zhon-ra"
+      ]
+    },
+    {
+      "word": "rendezvous",
+      "reason": "loan_word",
+      "respell": [
+        "ron-day-voo"
+      ]
+    },
+    {
+      "word": "deja",
+      "reason": "loan_word",
+      "respell": [
+        "day-zha"
+      ]
+    },
+    {
+      "word": "fiance",
+      "reason": "loan_word",
+      "respell": [
+        "fee-on-say"
+      ]
+    },
+    {
+      "word": "cliche",
+      "reason": "loan_word",
+      "respell": [
+        "clee-shay"
+      ]
+    },
+    {
+      "word": "facade",
+      "reason": "loan_word",
+      "respell": [
+        "fa-sahd"
+      ]
+    },
+    {
+      "word": "karaoke",
+      "reason": "loan_word",
+      "respell": [
+        "carry-oh-kee"
+      ]
+    }
+  ]
+}

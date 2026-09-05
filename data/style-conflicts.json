@@ -1,0 +1,176 @@
+{
+  "groups": [
+    {
+      "id": "tempo",
+      "a": [
+        "slow",
+        "ballad",
+        "downtempo",
+        "chill",
+        "lo-fi",
+        "lofi",
+        "ambient",
+        "mellow",
+        "relaxed",
+        "laid-back",
+        "laid back"
+      ],
+      "b": [
+        "fast",
+        "uptempo",
+        "up-tempo",
+        "driving",
+        "high-energy",
+        "high energy",
+        "energetic",
+        "frantic",
+        "breakneck",
+        "double-time"
+      ]
+    },
+    {
+      "id": "volume",
+      "a": [
+        "whisper",
+        "whispered",
+        "whispery",
+        "soft",
+        "gentle",
+        "intimate",
+        "hushed",
+        "delicate",
+        "quiet",
+        "lullaby",
+        "tender"
+      ],
+      "b": [
+        "anthemic",
+        "belted",
+        "aggressive",
+        "screaming",
+        "screamed",
+        "stadium",
+        "epic",
+        "loud",
+        "shouted",
+        "thrash",
+        "death metal",
+        "metalcore"
+      ]
+    },
+    {
+      "id": "instrumentation",
+      "a": [
+        "acoustic",
+        "unplugged",
+        "organic",
+        "campfire"
+      ],
+      "b": [
+        "synth",
+        "synths",
+        "synthwave",
+        "edm",
+        "electronic",
+        "techno",
+        "house",
+        "trance",
+        "dubstep",
+        "drum and bass",
+        "dnb",
+        "808",
+        "808s",
+        "hyperpop"
+      ]
+    },
+    {
+      "id": "fidelity",
+      "a": [
+        "lo-fi",
+        "lofi",
+        "dusty",
+        "tape",
+        "cassette",
+        "vinyl crackle"
+      ],
+      "b": [
+        "bright",
+        "clean",
+        "polished",
+        "crisp",
+        "hi-fi",
+        "pristine",
+        "glossy",
+        "radio-ready"
+      ]
+    },
+    {
+      "id": "vocals",
+      "a": [
+        "instrumental",
+        "no vocals",
+        "no vocal"
+      ],
+      "b": [
+        "vocals",
+        "vocal",
+        "female vocal",
+        "male vocal",
+        "female vocals",
+        "male vocals",
+        "singer",
+        "rap",
+        "rapper",
+        "choir",
+        "harmonies",
+        "duet"
+      ]
+    },
+    {
+      "id": "mood",
+      "a": [
+        "happy",
+        "upbeat",
+        "cheerful",
+        "joyful",
+        "playful",
+        "fun",
+        "sunny",
+        "feel-good"
+      ],
+      "b": [
+        "sad",
+        "melancholic",
+        "melancholy",
+        "mournful",
+        "heartbroken",
+        "somber",
+        "sombre",
+        "gloomy",
+        "grief",
+        "funeral"
+      ]
+    },
+    {
+      "id": "density",
+      "a": [
+        "minimal",
+        "sparse",
+        "stripped",
+        "stripped-down",
+        "stripped back",
+        "solo piano",
+        "voice and guitar"
+      ],
+      "b": [
+        "orchestral",
+        "wall of sound",
+        "lush",
+        "maximalist",
+        "cinematic",
+        "symphonic",
+        "big band"
+      ]
+    }
+  ]
+}
