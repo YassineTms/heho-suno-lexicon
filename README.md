@@ -46,3 +46,7 @@ byWord.get('live'); // { word: 'live', reason: 'homograph', respell: ['liv', 'ly
 ```
 
 Maintained by [Heho](https://heho.ai), a lyrics workspace for songwriters and AI-music makers.
+
+## Where the lists are used
+
+The production engine lives in the Heho backend (`api/services/lyrics_check/` in the MusicProd repository) and vendors a copy of `data/`. After a merge here, the copy is refreshed and deployed; the JSON in this repository is the source of truth.
